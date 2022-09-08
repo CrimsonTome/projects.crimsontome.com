@@ -14,7 +14,7 @@ TODO: add steps when ready
 
 ### Docker
 
-The site can also be built and ran inside a docker container when you are in the base of the repo:
+The site can also be built and ran inside a docker container when you are in the base of the repo:  
 TODO: add steps when ready
 
 ## Dockerfile
