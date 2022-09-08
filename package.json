@@ -1,0 +1,20 @@
+{
+  "name": "projects.crimsontome.com",
+  "version": "1.0.0",
+  "description": " WIP site to act as a portfolio, probably built with 11ty and grip",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CrimsonTome/projects.crimsontome.com.git"
+  },
+  "keywords": [],
+  "author": "CrimsonTome",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/CrimsonTome/projects.crimsontome.com/issues"
+  },
+  "homepage": "https://github.com/CrimsonTome/projects.crimsontome.com#readme"
+}
